@@ -9,4 +9,4 @@ Available modules in this course:
 * [git-novice](https://sickle-in-africa.github.io/bde.git-novice/): an introduction to version control with git
 * [python-novice-inflammation](https://sickle-in-africa.github.io/bde.python-novice-inflammation/): an introduction to scientific computing with pythnon
 * [r-novice-inflammation](https://sickle-in-africa.github.io/bde.r-novice-inflammation/): an introduction to scientific computing with R
-* [sql-novice-survey](https://github.com/sickle-in-africa/bde.sql-novice-survey): an introduction to databases with SQL
+* [sql-novice-survey](https://sickle-in-africa.github.io/bde.sql-novice-survey/): an introduction to databases with SQL
