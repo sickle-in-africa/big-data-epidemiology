@@ -51,7 +51,7 @@ These resouces are not required by the course, but are very helpful online resou
 
 ## Resources for instructors
 
-If you are an instructor for an iteration of this course, or for any module within an iteration run by someone else, please read through the following content prior to the start of your course or course module. 
+If you are an instructor for an iteration of this course, or for any module within an iteration run by someone else, the following links will be helpful to you. 
 
 * [Google forms](https://docs.google.com/forms/): for designing and collecting student assessments 
 * [Slack](https://slack.com/): for communicating with course students and staff
