@@ -21,3 +21,9 @@ A SADaCC hosted course for SickleInAfrica
 * [google cloud shell](https://cloud.google.com/shell): an online bash shell for learning to use the command line
 * [r studio cloud](https://rstudio.cloud/): a cloud version of the popular RStudio IDE for R
 * [google colab](https://colab.research.google.com/): an online python notebook and interpreter
+
+## Other helpful learning materials
+
+* [Kaggle](https://www.kaggle.com/learn): free online courses in programming and data analysis
+* [Statistics | Khan academy](https://www.khanacademy.org/math/statistics-probability): Probability and statistics introduction by Khan academy
+* [Medical Statistics | Coursera](https://www.coursera.org/learn/introduction-statistics-data-analysis-public-health): Medical Statitics introduction by Imperial Colledge London, hosted by Coursera
