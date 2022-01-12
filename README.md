@@ -19,7 +19,7 @@ For each module in the list below, click on the link to see the core reading mat
 * [Genome wide association analysis](https://pubmed.ncbi.nlm.nih.gov/29484742/): a hands on tutorial for conducting GWAS data analysis
 * [Data analysis reporting](https://bookdown.org/yihui/rmarkdown/): a guide to writing neat final reports of your analysis projects
 
-## Web-based computing resources (no installation)
+## Computing resources
 
 Below are some very useful resources that will help you work through the material in the course. These resouces are all also free.
 
