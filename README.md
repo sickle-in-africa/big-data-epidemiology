@@ -1,7 +1,9 @@
 Big Data Epidemiology
 =====================
 
-A SADaCC hosted course for SickleInAfrica
+*A SADaCC hosted course for SickleInAfrica*
+
+With large multinational registries and genomic sequences as new important data sources, Epidemiologists require skills in big data. This course aims to equip epidemiologists and those that support them (computer scientists, statisticians...) with the tools needed to address the new challenges posed by these big data sources. It was made primarily for members of the Sickle In Africa consortium, though we believe it has wider appeal in the international epidemiology community. 
 
 ## Course modules and their core reading materials
 
