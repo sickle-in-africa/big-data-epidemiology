@@ -18,5 +18,5 @@ A SADaCC hosted course for SickleInAfrica
 ## Web-based computing resources (no installation)
 
 * [google cloud shell](https://cloud.google.com/shell): an online bash shell for learning to use the command line
-* [r studio cloud](https://rstudio.cloud/): a cloud version of the populatio RStudio IDE for R
+* [r studio cloud](https://rstudio.cloud/): a cloud version of the popular RStudio IDE for R
 * [google colab](https://colab.research.google.com/): an online python notebook and interpreter
