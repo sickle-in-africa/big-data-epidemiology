@@ -55,3 +55,4 @@ If you are an instructor for an iteration of this course, or for any module with
 
 * [Google forms](https://docs.google.com/forms/): for designing and collecting student assessments 
 * [Slack](https://slack.com/): for communicating with course students and staff
+* [Notes for instructors](https://github.com/sickle-in-africa/bde.notes-for-instructors.git): A git repository of notes for instructors involved in any iteration of the Big Data Epidemiology course.
