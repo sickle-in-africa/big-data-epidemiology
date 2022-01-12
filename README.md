@@ -28,4 +28,5 @@ A SADaCC hosted course for SickleInAfrica
 * [Kaggle](https://www.kaggle.com/learn): free online courses in programming and data analysis
 * [Statistics | Khan academy](https://www.khanacademy.org/math/statistics-probability): Probability and statistics introduction by Khan academy
 * [Medical Statistics | Coursera](https://www.coursera.org/learn/introduction-statistics-data-analysis-public-health): Medical Statitics introduction by Imperial Colledge London, hosted by Coursera
+* [Data management](https://www.coursera.org/learn/clinical-data-management): Data management course by Vanderbilt University, hosted by Coursera
 * [Macine learning datasets](https://archive.ics.uci.edu/ml/index.php): a repository of free datasets curated for learning about machine learning 
