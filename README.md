@@ -29,7 +29,7 @@ Below are some very useful resources that will help you work through the materia
 * [r studio cloud](https://rstudio.cloud/): a cloud version of the popular RStudio IDE for R
 * [google colab](https://colab.research.google.com/): an online python notebook and interpreter
 
-## Desktop-based (installation needed)
+### Desktop-based (installation needed)
 
 The resources saved at the following links will need to be downloaded and installed. Note that installation instructions will vary from computer to computer.
 * [R](https://www.r-project.org/): the R base software package
