@@ -46,3 +46,7 @@ These resouces are not required by the course, but are very helpful online resou
 * [Data management | Coursera](https://www.coursera.org/learn/clinical-data-management): Data management course by Vanderbilt University, hosted by Coursera
 * [Macine learning datasets](https://archive.ics.uci.edu/ml/index.php): a repository of free datasets curated for learning about machine learning 
 * [Statquest](https://www.youtube.com/c/joshstarmer): an excellent youtube channel containing videos that explain all kinds of statistical concepts from the elementary to the complex
+
+## Resources for instructors
+
+If you are an instructor for an iteration of this course, or for any module within an iteration run by someone else, please read through the following content prior to the start of your course or course module. 
