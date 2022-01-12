@@ -15,6 +15,7 @@ A SADaCC hosted course for SickleInAfrica
 * [exploratory data analysis](https://r4ds.had.co.nz/): an introduction to exploratory data analysis in R
 * [probability and statistics](http://bio5495.wustl.edu/Probability/Readings/DeGroot4thEdition.pdf): in introduction to the mathematics of probability and statistics
 * [genome wide association analysis](https://pubmed.ncbi.nlm.nih.gov/29484742/): a hands on tutorial for conducting GWAS data analysis
+* [data analysis reporting](https://bookdown.org/yihui/rmarkdown/): a guide to writing neat final reports of your analysis projects
 
 ## Web-based computing resources (no installation)
 
