@@ -7,7 +7,7 @@ With large multinational registries and genomic sequences as new important data 
 
 ## Course modules and their core reading materials
 
-For each module in the list below, click on the link to see the core reading materials. These materials are all completeley free and always available. Note that these links may change as the course is updated.
+For each module in the list below, click on the link to see the core reading materials. These materials are all completely free and always available. Note that these links may change as the course is updated.
 
 * [Epidemiology](https://sickle-in-africa.github.io/bde.intro-epidemiology/): an introduction to epidemiology with a focus on sickle cell disease
 * [The Unix shell](https://sickle-in-africa.github.io/bde.shell-novice/): an introduction to command line programming
