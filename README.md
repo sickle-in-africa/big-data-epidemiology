@@ -9,17 +9,28 @@ With large multinational registries and genomic sequences as new important data 
 
 For each module in the list below, click on the link to see the core reading materials. These materials are all completely free and always available. Note that these links may change as the course is updated.
 
+### Epidemiology
+
 * [Epidemiology](https://sickle-in-africa.github.io/bde.intro-epidemiology/): an introduction to epidemiology with a focus on sickle cell disease
+
+### Data analysis
+
 * [The Unix shell](https://sickle-in-africa.github.io/bde.shell-novice/): an introduction to command line programming
 * [Version control with Git](https://sickle-in-africa.github.io/bde.git-novice/): an introduction to version control with git
-* [Python](https://sickle-in-africa.github.io/bde.python-novice-inflammation/): an introduction to scientific computing with pythnon
+* [Python](https://sickle-in-africa.github.io/bde.python-novice-inflammation/): an introduction to scientific computing with python
 * [R](https://sickle-in-africa.github.io/bde.r-novice-inflammation/): an introduction to scientific computing with R
-* [SQL](https://sickle-in-africa.github.io/bde.sql-novice-survey/): an introduction to databases with SQL
 * [Probability and statistics](http://bio5495.wustl.edu/Probability/Readings/DeGroot4thEdition.pdf): in introduction to the mathematics of probability and statistics
-* [Statistical learning](https://www.statlearning.com/): an introduction to machine learning in R (advanced)
+* [Statistical learning](https://www.statlearning.com/): an introduction to statistical (machine) learning in R (advanced)
 * [Exploratory data analysis](https://r4ds.had.co.nz/): an introduction to exploratory data analysis in R
-* [Genome wide association analysis](https://pubmed.ncbi.nlm.nih.gov/29484742/): a hands on tutorial for conducting GWAS data analysis
+* [Genome wide association analysis](https://pubmed.ncbi.nlm.nih.gov/29484742/): a hands on tutorial for conducting GWAS data analysis (advanced)
 * [Data analysis reporting](https://bookdown.org/yihui/rmarkdown/): a guide to writing neat final reports of your analysis projects
+
+### Data management
+
+* [SQL](https://sickle-in-africa.github.io/bde.sql-novice-survey/): an introduction to databases with SQL
+* Data quality
+* REDCap
+* Data harmonization
 
 ## Computing resources
 
