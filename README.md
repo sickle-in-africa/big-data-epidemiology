@@ -34,7 +34,7 @@ For each module in the list below, click on the link to see the core reading mat
 
 ## Computing resources
 
-Below are some very useful resources that will help you work through the material in the course. These resouces are all also free.
+Below are some very useful resources that will help you work through the material in the course. These resouces are all free.
 
 ### Cloud-based (no installation needed)
 
