@@ -23,7 +23,6 @@ For each module in the list below, click on the link to see the core reading mat
 * [Statistical learning](https://www.statlearning.com/): an introduction to statistical (machine) learning in R (advanced)
 * [Exploratory data analysis](https://r4ds.had.co.nz/): an introduction to exploratory data analysis and the tidyverse package in R
 * [Genome wide association analysis](https://pubmed.ncbi.nlm.nih.gov/29484742/): a hands on tutorial for conducting GWAS data analysis (advanced)
-* [Data analysis reporting](https://bookdown.org/yihui/rmarkdown/): a guide to writing neat final reports of your analysis projects
 
 ### Data management
 
@@ -59,6 +58,7 @@ These resouces are not required by the course, but are very helpful online resou
 * [Data management | Coursera](https://www.coursera.org/learn/clinical-data-management): Data management course by Vanderbilt University, hosted by Coursera
 * [Macine learning datasets](https://archive.ics.uci.edu/ml/index.php): a repository of free datasets curated for learning about machine learning 
 * [Statquest](https://www.youtube.com/c/joshstarmer): an excellent youtube channel containing videos that explain all kinds of statistical concepts from the elementary to the complex
+* [R Markdown](https://bookdown.org/yihui/rmarkdown/): a guide to writing neat final reports of your data analysis projects
 
 ## Resources for instructors
 
