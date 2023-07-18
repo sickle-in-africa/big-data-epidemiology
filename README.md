@@ -21,8 +21,9 @@ For each module in the list below, click on the link to see the core reading mat
 * [R](https://sickle-in-africa.github.io/bde.r-novice-inflammation/): an introduction to scientific computing with R
 * [Probability and statistics](http://www.economia.unam.mx/biblioteca/Pdf/Morris%20H%20DeGroot_%20Mark%20J%20Schervish-Probability%20and%20statistics-Pearson%20Education%20%20(2012).pdf): in introduction to the mathematics of probability and statistics
 * [Statistical learning](https://www.statlearning.com/): an introduction to statistical (machine) learning in R (advanced)
-* [Exploratory data analysis](https://r4ds.had.co.nz/): an introduction to exploratory data analysis and the tidyverse package in R
+* [Exploratory data analysis / tidyverse](https://r4ds.had.co.nz/): an introduction to exploratory data analysis and the tidyverse package in R
 * [Genome wide association analysis](https://pubmed.ncbi.nlm.nih.gov/29484742/): a hands on tutorial for conducting GWAS data analysis (advanced)
+* [Missing data imputation](https://stefvanbuuren.name/fimd/): an introduction to multiple imputation for missing data (advanced). 
 
 ### Data management
 
