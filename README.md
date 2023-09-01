@@ -23,7 +23,8 @@ For each module in the list below, click on the link to see the core reading mat
 * [Statistical learning](https://www.statlearning.com/): an introduction to statistical (machine) learning in R (advanced)
 * [Exploratory data analysis / tidyverse](https://r4ds.had.co.nz/): an introduction to exploratory data analysis and the tidyverse package in R
 * [Genome wide association analysis](https://pubmed.ncbi.nlm.nih.gov/29484742/): a hands on tutorial for conducting GWAS data analysis (advanced)
-* [Missing data imputation](https://stefvanbuuren.name/fimd/): an introduction to multiple imputation for missing data (advanced). 
+* [Missing data imputation](https://stefvanbuuren.name/fimd/): an introduction to multiple imputation for missing data (advanced).
+* [Outlier analysis](https://sadbhavnapublications.org/research-enrichment-material/2-Statistical-Books/Outlier-Analysis.pdf): a comprehensive guide to outlier analysis (advanced).
 
 ### Data management
 
